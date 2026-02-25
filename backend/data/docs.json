@@ -1,0 +1,27 @@
+[
+    {
+        "id": "doc1",
+        "title": "Company Overview",
+        "text": "TechCorp is a leading provider of innovative software solutions. Founded in 2010, the company has grown to become a major player in the cloud computing industry. Our core values include integrity, innovation, and customer satisfaction."
+    },
+    {
+        "id": "doc2",
+        "title": "Product: CloudSync",
+        "text": "CloudSync is our flagship product, offering seamless data synchronization across multiple devices. It uses advanced encryption to ensure your data is always secure. Supported platforms include Windows, macOS, iOS, and Android."
+    },
+    {
+        "id": "doc3",
+        "title": "Pricing Plans",
+        "text": "We offer three pricing tiers for our services: Basic, Pro, and Enterprise. The Basic plan is free and includes 5GB of storage. The Pro plan costs $9.99/month and includes 100GB of storage. The Enterprise plan offers unlimited storage and custom pricing."
+    },
+    {
+        "id": "doc4",
+        "title": "Support and SLA",
+        "text": "Our customer support team is available 24/7 to assist you. We offer a 99.9% uptime guarantee with our Service Level Agreement (SLA). In case of any technical issues, our resolution time is typically under 2 hours for Pro and Enterprise customers."
+    },
+    {
+        "id": "doc5",
+        "title": "Data Privacy",
+        "text": "We take data privacy very seriously. We comply with GDPR and CCPA regulations. We do not sell your personal data to third parties. Your data is stored in secure data centers located in the US and Europe."
+    }
+]
